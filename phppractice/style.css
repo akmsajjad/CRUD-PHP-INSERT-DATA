@@ -1,0 +1,23 @@
+*{
+	font-family: ubuntu;
+}
+.inputform{
+	margin: 100px auto;
+	width: 35%;
+
+}
+
+.inputform2{
+    width: 500px;
+    margin: auto;
+    padding-top: 100px;
+
+    
+}
+
+.image-upload{
+	width: 400px;
+	margin: 100px auto;
+
+}
+
